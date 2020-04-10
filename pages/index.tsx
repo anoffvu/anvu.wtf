@@ -1,5 +1,5 @@
 const Index = () => {
-  return {}
+  return <div />;
 };
 
 Index.getInitialProps = async function(context) {
